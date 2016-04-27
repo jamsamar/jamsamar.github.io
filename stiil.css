@@ -1,0 +1,88 @@
+
+		body {
+			background-color: rgb(170,170,57);
+			font-family:Serif;
+		}
+		
+		h1 {
+			margin-top: 50px;
+			margin-right: 50px;
+			margin-left: 30px;
+			background-color:rgb(85,85,0);
+			color:rgb(255,255,170);
+			padding:10px;
+			font-family:Sans-Serif;
+		}
+		h2 {
+			margin-bottom: 10px;
+			margin-right: 30px;
+			margin-left: 20px;
+			font-family:Sans-Serif;
+		}
+		#tutvustus{
+			margin-left: 30px;
+		}
+		p {
+			margin-bottom: 10px;
+			margin-right: 30px;
+			margin-left: 20px;
+			width:80%; 
+		}
+		strong {
+			color:rgb(242, 59, 27);
+		}
+		table {
+			margin-bottom: 10px;
+			margin-right: 30px;
+			margin-left: 20px;
+		}
+		#nupud{
+			width: 80px;
+			float:left;
+			position: relative;
+			left: 30px;
+		#lahendus{
+			clear:both;
+			float:middle;
+			position:relative;
+		}	
+		}
+		#osad{
+			width: 700px;
+			float:left;
+			position: relative;
+			left: 180px;
+			margin-right: 150px;
+			margin-bottom:10px;
+			background-color:rgb(212,212,106);
+			
+		}
+		#canvas{
+			width: 700px;
+			float:left;
+			position: relative;
+			left: 100px;
+			margin-right: 100px;
+			margin-bottom:10px;
+			background-color:rgb(212,212,106);
+			
+		}
+		button{
+			width:130px;
+			padding:4px;
+			background-color:rgb(128,128,21);
+			color:rgb(255,255,170);
+			margin:4px;
+			border-radius: 5px;
+		}
+
+		 #jalus{
+                clear:both;
+                padding:1px;
+                background-color:rgb(85,85,0);
+				color:rgb(255,255,170);
+                margin-left:30px;
+                margin-right:50px;
+				margin-top: 10px;
+            }
+		
